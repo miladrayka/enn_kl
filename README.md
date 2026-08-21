@@ -1,9 +1,9 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Learning from Uncertainty in Lattice Thermal Conductivity Prediction
+# Uncertainty Quantification Reveals the Limits of Lattice Thermal Conductivity Prediction
 
-This repository contains the code and data to reproduce the results presented in the paper **"Learning from Uncertainty in Lattice Thermal Conductivity Prediction"**.
+This repository contains the code and data to reproduce the results presented in the paper **"Uncertainty Quantification Reveals the Limits of Lattice Thermal Conductivity Prediction"**.
 
 ### Datasets
 All datasets used in this study are available through their respective source links:
@@ -54,7 +54,7 @@ mamba activate ml
 
 ## Usage
 
-To reproduce all results, tables, and figures, refer to *./evidential_regression_package/workflow.ipynb* *./mc_dropout_package/workflow.ipynb* folders.
+To reproduce all results, tables, and figures, refer to the *./evidential_regression_package/workflow.ipynb* and *./mc_dropout_package/workflow.ipynb* folders.
 
 ## Copyright
 
